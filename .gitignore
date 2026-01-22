@@ -1,0 +1,47 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+dist/
+.vscode/
+.idea/
+coverage
+logs/
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+lerna-debug.log*
+.cache/
+.next/
+out/
+.build/
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Ignore Mac system files
+.AppleDouble
+.LSOverride
+# Thumbnails
+._*
+# Icon must end with two \r
+Icon\r\r
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.vendor
+.venv/
+venv/
+.env
